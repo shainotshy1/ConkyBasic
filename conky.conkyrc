@@ -131,7 +131,7 @@ conky.config = {
 	color2 = '#FCF9E5', -- subtext (CPU info for example)
 	color3 = '#cccccc',
 	color4 = '#D9BC83',
-	color5 = '#B0FFBE', -- Titles
+	color5 = '#F0FFBE', -- Titles
 	color6 = '#FFFFFF', -- Clock
 
 	--Signal Colours
