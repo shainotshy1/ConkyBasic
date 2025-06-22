@@ -123,7 +123,7 @@ conky.config = {
 
 	--Colours
 
-	default_color = '#D9DDE2',  				-- default color and border color
+	default_color = '#F5F9EF',  				-- default color and border color
 	color1 = '#FF0000',
 	color2 = '#FCF9E5', -- subtext (CPU info for example)
 	color3 = '#cccccc',
